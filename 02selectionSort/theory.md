@@ -1,4 +1,6 @@
-# Theroy for  Selection sort:
+# Theroy for Selection sort:
+
+## selectionSort.py
 
 The findSmallest function finds the index of the smallest element in an input list by iterating over the list and comparing each element with the current smallest element. It returns the index of the smallest element.
 

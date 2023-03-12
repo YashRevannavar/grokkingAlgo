@@ -1,5 +1,6 @@
 # Theroy for Binary selection:
 
+## binarySearch.py
 
 The bin function performs a binary search on a sorted list bucket to find the index of the element item. The function starts by setting low to the first index of the list and high to the last index of the list. It then repeatedly divides the remaining search space in half until it finds the desired element or determines that the element is not present in the list. If the guess at the midpoint of the remaining search space is greater than the item, the search is continued in the lower half of the search space. If the guess is less than the item, the search is continued in the upper half of the search space. If the guess is equal to the item, the function returns the index of the guess. If the search space is reduced to zero and the item is not found, the function returns None.
 
