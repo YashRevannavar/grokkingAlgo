@@ -6,8 +6,10 @@
 Tree:
 ├── 01introuction
 │   ├── binarySearch.py
+│   └── Theroy.md
 ├── 02selectionSort
-│   └── selectionSort.py
+│   ├── selectionSort.py
+│   └──Theroy.md
 ├── 03recursion
 ├── 04quicksort
 ├── 05hastTable
