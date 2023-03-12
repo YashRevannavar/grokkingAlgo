@@ -1,6 +1,8 @@
-# Info:
-<p>This repository makes reference to Aditya Y. Bhargava's work "Grokking Algorithms."</p>
-<p>This repository includes a chapter vise directory with Python-based methods.</p>
+# Repository Information
+This repository includes a directory for each chapter of "Grokking Algorithms" by Aditya Y. Bhargava. Each directory contains Python-based methods corresponding to the chapter's topics.
+
+## References
+Aditya Y. Bhargava. Grokking Algorithms. Manning Publications Co., 2016.
 
 ```tree
 Tree:
