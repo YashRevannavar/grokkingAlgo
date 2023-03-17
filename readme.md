@@ -14,6 +14,7 @@ Tree:
 │   └── theory.md
 ├── 03recursion
 │   ├── countDown.py
+|   ├── factorial.py
 │   └── theory.md
 ├── 04quicksort
 ├── 05hastTable
